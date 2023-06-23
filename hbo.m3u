@@ -1,46 +1,6 @@
 #EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
 
-////donasi/////
-#EXTINF:-1 tvg-logo="" group-title="❤️❤️Ketik http://bit.ly/rawattv utk Request cnl/Bantu rawat channel di Server ini thanks ❤️",tutor
-https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="" group-title="❌❌JANGAN CLEAR DATA app OTT navigator yg akan mengakibatkan server hilang TOTAL",tutor
-https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="" group-title="🔥🔥HBO Pengganti ada di Folder MOVIES 2", update
-#https://www.dropbox.com/s/ho5v4vm6lf4a0n4/Proyek_12-16_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="" group-title="cek http://tokopedia.com/qing37 utk merk box terbaru google voice assistant 390an rb",tutor
-#https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
-
-
-////TUTOR///
-#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/04/98/10/97/360_F_498109771_aLBBPIiTgU4B7CiyusFPEX3a9NdCTA3T.jpg" group-title="⚙️📡TUTORIAL OTT NAV", Channel hilang solusi
-https://www.dropbox.com/s/zmmsxsomgo874nm/Proyek_12-09_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/04/98/10/97/360_F_498109771_aLBBPIiTgU4B7CiyusFPEX3a9NdCTA3T.jpg" group-title="⚙️📡TUTORIAL OTT NAV",cr UPDATE CHANNEL 
-https://www.dropbox.com/s/invi0gf270c6lco/Proyek_11-24_HD%20720p_MEDIUM_FR30_%281%29.mp4?dl=1
-
-
-
-///////REQUEST //////
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i0.wp.com/kfaspain.es/wp-content/uploads/2022/01/logo-KCTV.png",Korut TV 🇰🇵
-https://tv.nknews.org/tvdash/stream.mpd
-
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/240px-Phoenix_Chinese.svg.png", Chinese Phoenix 凤凰中文
-http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Phoenix_InfoNews.svg/300px-Phoenix_InfoNews.svg.png", Phoenix News 凤凰资讯
-http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/400px-REN_TV_logo_2017.svg.png", Рен ТВ
-
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg/600px-My_Zen_Tv_LOGO_Couleur_vide.jpg", MEYZEN TV 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 group-title="🔵Channel Request 📋" tvg-logo="https://i.postimg.cc/X7TC78fY/saling-sapa.png",Salingsapa (off)
-#http://bravo.kugo.id:8081/salingsapatv/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="🔵Channel Request 📋", Sony GEM
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
-
 
 
 
