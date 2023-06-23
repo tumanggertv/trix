@@ -1,3 +1,7 @@
+#EXTINF:-1 group-title="Indonesia❤️" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png", KOMPAS TV backup
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 /// HBO /////
 #EXTINF:-1 group-title="HBO Group" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
